@@ -10,7 +10,4 @@ void main(){
   print("My name is $email");
   print("My name is $mark");
 
-
-
-
 }
